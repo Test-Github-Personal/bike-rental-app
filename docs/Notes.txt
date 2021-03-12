@@ -1,0 +1,34 @@
+https://reactjs.org/docs/hello-world.html
+
+https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
+
+npx create-react-app bike-rental
+
+
+https://www.eaglerider.com/reservation/checkout
+https://www.hertzride.com/
+https://www.rental819.com/english/user-guide/ // lots of info here
+
+https://www.komoot.com/plan/@22.4846441,89.0826416,8z?waypoint=poi:828OR // search by type of icons
+
+
+Theme selected:
+http://demo.ovathemes.com/ireca/rental-category/rental/motors/
+http://demo.ovathemes.com/ireca/rental-landing-page/
+http://demo.ovathemes.com/ireca/rental-category/rental/car/
+
+https://club.yourstory.com/ // mud color suggested by Sajive
+
+https://grandprix.qodeinteractive.com/
+
+https://cardealer.potenzaglobalsolutions.com/home-11/
+
+Tutorial:
+https://www.javatpoint.com/react-router
+
+
+
+Dashboard page
+1. background image with overlaping search
+2. How to book
+3. sample bikes with rent
